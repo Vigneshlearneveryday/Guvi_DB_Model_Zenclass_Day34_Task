@@ -1,6 +1,7 @@
 # GUVI - DAY 34
 
 ## Design DB model for zen class
+---
 
 1. First we create a database for our model.
 
@@ -102,3 +103,4 @@ create database zenclass;
         NUM_LEAVE_APPLICATIONS DESC
         LIMIT 1;
         `
+    ---
