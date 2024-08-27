@@ -25,8 +25,6 @@ create database zenclass;
     > - One to Many or Many to One
     > - Many to Many
 
-> - A detailed document about the Entities chosen and their relationships are provided in the documentation attached. [Doc]()
-
 4.  Now, using the MySQL CREATE query, we define the schema of our database. [Source File](./Schema.sql)
 
 5.  Now that we have got our schema, we populate our database using data from the data file. [Source File](./Data.sql)
